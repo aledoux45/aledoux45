@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aledoux45
-- 🌱 I’m a Senior Data Scientist currently learning Web Development
+- 🌱 I’m a Senior Data Scientist specialist in NLP currently learning Web Development
 
 <!---
 aledoux45/aledoux45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
